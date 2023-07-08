@@ -1,0 +1,1 @@
+This github project contains face detection,hand detection and body detection using opencv,media pipe and haarcascade algorithm 
